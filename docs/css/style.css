@@ -2,9 +2,9 @@
 
 /* すべてのWebページに適用される */
 body {
-	margin: 0 0 0 0;
-	padding: 0 0 0 0;
-	background-color: #F000FF;
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+    background-color: #FBAD4A;
 }
 .wrapper {
 	margin: 0 auto 0 auto;
@@ -87,7 +87,7 @@ img {
 
 /* すべてのページに適用 - footer - */
 #footer{
-	background-image: url(../images/footer-bg.png);
+	background-image: url(../images/footer2-bg.png);
 	background-repeat: repeat-x;
 	margin-top: 30px;
 	padding:20px 0 20px 0;
@@ -123,17 +123,17 @@ img {
 }
 table.info {
 	border-collapse: collapse;
-	border: 1px solid #b78c5f;
+	border: 1px solid #3A00FF;
 }
 table.info th, table.info td {
 	padding: 8px 8px 8px 8px;
-	border: 1px solid #d6c2b5;
+	border: 1px solid #E45900;
 	text-align: left;
 	vertical-align: middle;
 }
 table.info th {
-	background-color: #c99e73;
-	color: #442220;
+	background-color: #F50493;
+	color: #38FD07;
 }
 
 /* menu.html */
